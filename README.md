@@ -23,6 +23,6 @@
 
  For a quick response, DM me on [Instagram](https://www.instagram.com/faayzz.__/) or [LinkedIn](www.linkedin.com/in/mfayizp). 
 
-
-
+##
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mFaYizp&show_icons=true&locale=en&layout=compact" alt="mFaYizp" /></p>
+
