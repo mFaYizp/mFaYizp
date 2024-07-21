@@ -13,11 +13,11 @@
  
 **Backend Development:** `Nest.js` `Express.js`  
 
-**Databases:** `Mongo DB` `PostgreSQL`
+**Databases:** `Mongo DB` `PostgreSQL` `MySQL`
 
 **Version Control:** `Git` `GitLab`
 
-**Others:** `Redis` `Socket IO`
+**Others:** `Redis` `Socket IO` `Prisma`
 
 ## 📫 Contact
 
