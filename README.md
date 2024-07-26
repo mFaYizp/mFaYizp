@@ -11,13 +11,13 @@
 
 **Frontend Development:** `React` `Next.js` `React Native` `Tailwind` `SCSS` `ThreeJs` `GSAP` `Framer Motion`
  
-**Backend Development:** `Nest.js` `Express.js`  
+**Backend Development:** `Nest.js` `Express.js` `Rest API` `GraphQL` `Socket IO`
 
 **Databases:** `Mongo DB` `PostgreSQL` `MySQL` `Redis` `Prisma`
 
 **Version Control:** `Git` `GitLab`
 
-**Others:**  `AWS` `Socket IO` 
+**Others:**  `AWS S3` `Digital Ocean`
 
 ## 📫 Contact
 
