@@ -7,7 +7,7 @@
 
 ## 📦 Toolbox
 
-**Languages:** `JavaScript` `TypeScript` `Go` `C` `Java` `Go`
+**Languages:** `JavaScript` `TypeScript` `Go` `C` `Java` 
 
 **Frontend Development:** `React` `Next.js` `React Native` `Tailwind` `SCSS` `ThreeJs` `GSAP` `Framer Motion`
  
