@@ -15,9 +15,7 @@
 
 **Databases:** `Mongo DB` `PostgreSQL` `MySQL` `Redis` `Prisma`
 
-**Version Control:** `Git` `GitLab`
-
-**Others:**  `AWS S3` `Digital Ocean`
+**Others:**  `AWS` `Digital Ocean` `Docker`
 
 ## 📫 Contact
 
