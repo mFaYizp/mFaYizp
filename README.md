@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning `Web3`
 
-- 💬 Ask me about `React` `Next.js` `React Native`
+- 💬 Ask me about `Next.js` `React Native`
 
 ## 📦 Toolbox
 
